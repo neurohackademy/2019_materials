@@ -4,7 +4,7 @@ This repository contains links and descriptions of all publicly shareable materi
 
 * Day 1 (07/30/2018)
 	* [09:00] [Introduction to Neurohackademy](https://neurohackademy.github.io/introduction-to-nh/) (Ariel Rokem)
-	* [10:30] [Reproducibility in fMRI: What is the problem?](http://neurohackademy.org/wp-content/uploads/2018/02/Reproducibility_NHW2018.pdf) (Russ Poldrack)
+	* [10:30] [](http://neurohackademy.org/wp-content/uploads/2018/02/Reproducibility_NHW2018.pdf) (Russ Poldrack)
 	* [13:00] Git/Github (Bernease Herman)
 	* [13:00] [Docker for Scientists](https://neurohackweek.github.io/docker-for-scientists/) (Chris Gorgolewski) [[repo]](https://github.com/neurohackweek/docker-for-scientists)
 	* [14:30] Introduction to R (Valentina Staneva)
