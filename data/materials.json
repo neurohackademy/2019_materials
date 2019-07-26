@@ -3,7 +3,7 @@
     "title": "Introduction to Neurohackademy",
     "instructor": "Ariel Rokem",
     "slides": "https://neurohackademy.github.io/introduction-to-nh/",
-    "date": "07/30/2019",
+    "date": "07/29/2019",
     "time": "09:00",
     "duration": 90,
     "room": "Alder 104",
@@ -13,10 +13,11 @@
   {
     "title": "Reproducibility in fMRI: What is the problem?",
     "instructor": "Russ Poldrack",
-    "slides": "https://github.com/arokem/2019_materials/raw/master/slides/Neurohackademy_2019_poldrack.pdf",
+    "slides": "https://github.com/neurohackademy/2019_materials/raw/master/slides/Neurohackademy_2019_poldrack.pdf",
     "date": "07/29/2019",
     "time": "11:00",
     "duration": 60,
     "room": "Alder 104",
     "desc": "A review of barriers to reproducible neuroimaging research, and some potential solutions."
-  },
+  }
+  ]
