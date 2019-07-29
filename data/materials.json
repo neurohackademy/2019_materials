@@ -31,4 +31,26 @@
     "room": "Alder 104",
     "desc": "How do we make your data Findable, Accessible, Interoperable, Reusable"
   }
+  ,
+  {
+    "title": "Introduction to Docker",
+    "instructor": "Anisha Keshavan",
+    "slides": "https://slides.com/anishakeshavan/introduction-to-docker/",
+    "date": "07/29/2019",
+    "time": "14:00",
+    "duration": 120,
+    "room": "Alder 103",
+    "desc": "Containerize your science"
+  }
+  ,
+  {
+    "title": "Git and GitHub for collaboration",
+    "instructor": "Elizabeth Dupre",
+    "slides": "http://emdupre.github.io/git-course",
+    "date": "07/29/2019",
+    "time": "14:00",
+    "duration": 120,
+    "room": "Alder 104",
+    "desc": "Collaborate with your colleagues using the state of the art in distributed version control"
+  }
   ]
