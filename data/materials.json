@@ -8,8 +8,8 @@
     "duration": 90,
     "room": "Alder 104",
     "desc": "Setting the stage, and explaining what will happen in the next couple of weeks"
-  },
-
+  }
+  ,
   {
     "title": "Reproducibility in fMRI: What is the problem?",
     "instructor": "Russ Poldrack",
@@ -19,5 +19,16 @@
     "duration": 60,
     "room": "Alder 104",
     "desc": "A review of barriers to reproducible neuroimaging research, and some potential solutions."
+  }
+  ,
+  {
+    "title": "The FAIR Data Principles",
+    "instructor": "Mayann Martone",
+    "slides": "https://github.com/neurohackademy/2019_materials/raw/master/slides/FAIR_Data_NeuroHack.pdf",
+    "date": "07/29/2019",
+    "time": "13:00",
+    "duration": 60,
+    "room": "Alder 104",
+    "desc": "How do we make your data Findable, Accessible, Interoperable, Reusable"
   }
   ]

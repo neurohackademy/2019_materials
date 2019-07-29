@@ -5,6 +5,7 @@ This repository contains links and descriptions of all publicly shareable materi
 * Day 1 (07/29/2019)
 	* [09:00] [Introduction to Neurohackademy](https://neurohackademy.github.io/introduction-to-nh/) (Ariel Rokem)
 	* [11:00] [Reproducibility in fMRI: What is the problem?](https://github.com/neurohackademy/2019_materials/raw/master/slides/Neurohackademy_2019_poldrack.pdf) (Russ Poldrack)
+	* [13:00] [The FAIR Data Principles](https://github.com/neurohackademy/2019_materials/raw/master/slides/FAIR_Data_NeuroHack.pdf) (Mayann Martone)
 
 * Day 2 (07/30/2019)
 
