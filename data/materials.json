@@ -55,6 +55,28 @@
   }
   ,
   {
+    "title": "Introduction to Python",
+    "instructor": "Tal Yarkoni",
+    "repo": "https://github.com/neurohackademy/introduction-to-python",
+    "date": "07/30/2019",
+    "time": "10:00",
+    "duration": 120,
+    "room": "Alder 104",
+    "desc": "Python is a high-level interpreted programming language that cares about whitespace"
+  }
+  ,
+  {
+    "title": "Building a Python library",
+    "instructor": "Ariel Rokem",
+    "repo": "https://nsls-ii.github.io/scientific-python-cookiecutter/",
+    "date": "07/30/2019",
+    "time": "10:00",
+    "duration": 120,
+    "room": "Alder 104",
+    "desc": "How to start building a library of code that others can use"
+  }
+  ,
+  {
     "title": "Functional brain parcellation",
     "instructor": "Pierre Bellec",
     "slides": "https://github.com/neurohackademy/2019_materials/raw/master/slides/Neurohackademy_2019_bellec_parcellation.pdf",

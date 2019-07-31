@@ -10,6 +10,8 @@ This repository contains links and descriptions of all publicly shareable materi
 	* [14:00] [Git and GitHub for collaboration](http://emdupre.github.io/git-course) (Elizabeth Dupre)
 
 * Day 2 (07/30/2019)
+	* [10:00] Introduction to Python (Tal Yarkoni) [[repo]](https://github.com/neurohackademy/introduction-to-python)
+	* [10:00] Building a Python library (Ariel Rokem) [[repo]](https://nsls-ii.github.io/scientific-python-cookiecutter/)
 
 * Day 3 (07/31/2019)
 	* [9:00] [Measuring human functional brain networks](https://github.com/neurohackademy/2019_materials/raw/master/slides/Gratton_Neurohack2019_v1.pdf.pdf) (Caterina Gratton) [[repo]](https://github.com/cgratton/Neurohackademy_Tutorial)
