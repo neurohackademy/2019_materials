@@ -55,6 +55,17 @@
   }
   ,
   {
+    "title": "Plumbing the intertubes",
+    "instructor": "Satra Ghosh",
+    "repo": "https://github.com/neurohackademy/introduction-to-python",
+    "date": "07/30/2019",
+    "time": "9:00",
+    "duration": 50,
+    "room": "Alder 104",
+    "desc": ""
+  }
+  ,
+  {
     "title": "Introduction to Python",
     "instructor": "Tal Yarkoni",
     "repo": "https://github.com/neurohackademy/introduction-to-python",
@@ -68,7 +79,7 @@
   {
     "title": "Building a Python library",
     "instructor": "Ariel Rokem",
-    "repo": "https://nsls-ii.github.io/scientific-python-cookiecutter/",
+    "materials": "https://nsls-ii.github.io/scientific-python-cookiecutter/",
     "date": "07/30/2019",
     "time": "10:00",
     "duration": 120,
