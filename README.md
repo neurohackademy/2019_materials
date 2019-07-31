@@ -12,6 +12,8 @@ This repository contains links and descriptions of all publicly shareable materi
 * Day 2 (07/30/2019)
 
 * Day 3 (07/31/2019)
+	* [9:00] [Measuring human functional brain networks](https://github.com/neurohackademy/2019_materials/raw/master/slides/Gratton_Neurohack2019_v1.pdf.pdf) (Caterina Gratton) [[repo]](https://github.com/cgratton/Neurohackademy_Tutorial)
+	* [9:50] [Functional brain parcellation](https://www.slideshare.net/pbellec/rsc-educational-bellecparcellation) (Pierre Bellec) [[repo]](https://github.com/SIMEXP/tutorials-basc)
 
 * Day 4 (08/01/2019)
 

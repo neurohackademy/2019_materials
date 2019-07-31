@@ -53,4 +53,28 @@
     "room": "Alder 104",
     "desc": "Collaborate with your colleagues using the state of the art in distributed version control"
   }
+  ,
+  {
+    "title": "Functional brain parcellation",
+    "instructor": "Pierre Bellec",
+    "slides": "https://www.slideshare.net/pbellec/rsc-educational-bellecparcellation",
+    "repo": "https://github.com/SIMEXP/tutorials-basc",
+    "date": "07/31/2019",
+    "time": "9:50",
+    "duration": 50,
+    "room": "Alder 104",
+    "desc": ""
+  }
+  ,
+  {
+    "title": "Measuring human functional brain networks",
+    "instructor": "Caterina Gratton",
+    "slides": "https://github.com/neurohackademy/2019_materials/raw/master/slides/Gratton_Neurohack2019_v1.pdf.pdf",
+    "repo": "https://github.com/cgratton/Neurohackademy_Tutorial",
+    "date": "07/31/2019",
+    "time": "9:00",
+    "duration": 50,
+    "room": "Alder 104",
+    "desc": ""
+  }
   ]
