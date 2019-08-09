@@ -28,6 +28,7 @@ This repository contains links and descriptions of all publicly shareable materi
 * Day 4 (08/01/2019)
 	* [11:00] [Meta-analysis and reproducibility](https://github.com/neurohackademy/2019_materials/raw/master/slides/Laird-NH19.pdf) (Angie Laird)
 	* [13:00] Optimization (Peng Zheng) [[repo]](https://github.com/UW-AMO/Workshop_Material)
+	* [15:00] Cloud computing (Amanda Tan and Ariel Rokem)
 	* [9:00] [(finding) Open datasets for neurohacking](https://docs.google.com/presentation/d/1nb5NeCafoXIPmO6MZa5c5VkSkO3ni9Q8vdCCz1r7YIw/edit#slide=id.gc6f980f91_0_0) (Chris Gorgolewski)
 
 * Day 5 (08/02/2019)

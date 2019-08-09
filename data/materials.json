@@ -222,6 +222,17 @@
   }
   ,
   {
+    "title": "Cloud computing",
+    "instructor": "Amanda Tan and Ariel Rokem",
+    "notes": "https://neurohackademy.github.io/cloud101_aws/",
+    "date": "08/01/2019",
+    "time": "15:00",
+    "duration": 120,
+    "room": "Alder 103",
+    "desc": "ADSI tutorial"
+  }
+  ,
+  {
     "title": "Finding low-dimensional structure in large-scale neural recordings",
     "instructor": "Eva Dyer",
     "slides": "https://github.com/neurohackademy/2019_materials/raw/master/slides/DimReduction-July2019-NeuroHack.pdf",
