@@ -26,7 +26,7 @@ This repository contains links and descriptions of all publicly shareable materi
 	* [9:50] [Functional brain parcellation](https://github.com/neurohackademy/2019_materials/raw/master/slides/Neurohackademy_2019_bellec_parcellation.pdf) (Pierre Bellec) [[repo]](https://github.com/SIMEXP/tutorials-basc)
 
 * Day 4 (08/01/2019)
-	* [11:00] [Meta-analysis and reproducibility](XXX) (Angie Laird)
+	* [11:00] [Meta-analysis and reproducibility](https://github.com/neurohackademy/2019_materials/raw/master/slides/Laird-NH19.pdf) (Angie Laird)
 	* [13:00] Optimization (Peng Zheng) [[repo]](https://github.com/UW-AMO/Workshop_Material)
 	* [9:00] [(finding) Open datasets for neurohacking](https://docs.google.com/presentation/d/1nb5NeCafoXIPmO6MZa5c5VkSkO3ni9Q8vdCCz1r7YIw/edit#slide=id.gc6f980f91_0_0) (Chris Gorgolewski)
 
