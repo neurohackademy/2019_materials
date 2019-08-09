@@ -229,6 +229,17 @@
     "time": "15:00",
     "duration": 120,
     "room": "Alder 103",
+    "desc": "Tutorial about the cloud"
+  }
+  ,
+  {
+    "title": "Optimal Transport",
+    "instructor": "Zaid Harchaoui and Alec Greaves-Tunnell",
+    "repo": "https://github.com/alecgt/otml-neurohackademy-2019",
+    "date": "08/02/2019",
+    "time": "15:00",
+    "duration": 240,
+    "room": "Alder 103",
     "desc": "ADSI tutorial"
   }
   ,

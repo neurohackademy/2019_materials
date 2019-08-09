@@ -33,6 +33,7 @@ This repository contains links and descriptions of all publicly shareable materi
 
 * Day 5 (08/02/2019)
 	* [11:00] [Finding low-dimensional structure in large-scale neural recordings](https://github.com/neurohackademy/2019_materials/raw/master/slides/DimReduction-July2019-NeuroHack.pdf) (Eva Dyer)
+	* [15:00] Optimal Transport (Zaid Harchaoui and Alec Greaves-Tunnell) [[repo]](https://github.com/alecgt/otml-neurohackademy-2019)
 
 * Day 6 (08/03/2019)
 
