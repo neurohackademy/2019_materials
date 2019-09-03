@@ -10,6 +10,7 @@ This repository contains links and descriptions of all publicly shareable materi
 	* [14:00] [Git and GitHub for collaboration](http://emdupre.github.io/git-course) (Elizabeth Dupre)
 
 * Day 2 (07/30/2019)
+	* [9:00] Plumbing the intertubes (Satra Ghosh) [[repo]](https://github.com/neurohackademy/2019_materials/blob/master/slides/20190730-Ghosh-NHA.pdf)
 	* [10:00] Introduction to Python (Tal Yarkoni) [[repo]](https://github.com/neurohackademy/introduction-to-python)
 	* [10:00] Building a Python library (Ariel Rokem)
 	* [13:00] Numerical computing in Python (JB Poline) [[repo]](https://github.com/jbpoline/2019-numpy-tutorial)
@@ -17,7 +18,6 @@ This repository contains links and descriptions of all publicly shareable materi
 	* [15:00] Data visualization (Python) (Kirstie Whitaker) [[repo]](https://github.com/KirstieJane/NH19-Visualization)
 	* [15:00] [Browser-based data visualization (Javascript)](http://anisha.pizza/nha_2019/presentation/index.html#/title) (Anisha Keshavan)
 	* [16:00] Model-based fMRI and HCP data (Noah Benson) [[repo]](https://github.com/noahbenson/neurohackademy2019)
-	* [9:00] Plumbing the intertubes (Satra Ghosh) [[repo]](https://github.com/neurohackademy/introduction-to-python)
 
 * Day 3 (07/31/2019)
 	* [13:00] [ML with Scikit Learn](https://github.com/neurohackademy/2019_materials/raw/master/slides/DimReduction-July2019-NeuroHack.pdf) (Tal Yarkoni)
