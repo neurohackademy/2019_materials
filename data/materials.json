@@ -88,6 +88,61 @@
   }
   ,
   {
+    "title": "Numerical computing in Python",
+    "instructor": "JB Poline",
+    "repo": "https://github.com/jbpoline/2019-numpy-tutorial",
+    "date": "07/30/2019",
+    "time": "13:00",
+    "duration": 90,
+    "room": "Alder 104",
+    "desc": ""
+  }
+  ,
+  {
+    "title": "High-performance Python",
+    "instructor": "Ariel Rokem",
+    "notes": "https://neurohackademy.github.io/high-performance-python",
+    "date": "07/30/2019",
+    "time": "13:00",
+    "duration": 90,
+    "room": "Alder 104",
+    "desc": ""
+  }
+  ,
+  {
+    "title": "Data visualization (Python)",
+    "instructor": "Kirstie Whitaker",
+    "repo": "https://github.com/KirstieJane/NH19-Visualization",
+    "date": "07/30/2019",
+    "time": "15:00",
+    "duration": 60,
+    "room": "Alder 104",
+    "desc": ""
+  }
+  ,
+  {
+    "title": "Browser-based data visualization (Javascript)",
+    "instructor": "Anisha Keshavan",
+    "slides": "http://anisha.pizza/nha_2019/presentation/index.html#/title",
+    "date": "07/30/2019",
+    "time": "15:00",
+    "duration": 60,
+    "room": "Alder 103",
+    "desc": ""
+  }
+  ,
+  {
+    "title": "Model-based fMRI and HCP data",
+    "instructor": "Noah Benson",
+    "repo": "https://github.com/noahbenson/neurohackademy2019",
+    "date": "07/30/2019",
+    "time": "16:00",
+    "duration": 60,
+    "room": "Alder 104",
+    "desc": ""
+  }
+  ,
+  {
     "title": "Functional brain parcellation",
     "instructor": "Pierre Bellec",
     "slides": "https://github.com/neurohackademy/2019_materials/raw/master/slides/Neurohackademy_2019_bellec_parcellation.pdf",
@@ -102,10 +157,98 @@
   {
     "title": "Measuring human functional brain networks",
     "instructor": "Caterina Gratton",
-    "slides": "https://github.com/neurohackademy/2019_materials/raw/master/slides/Gratton_Neurohack2019_v1.pdf.pdf",
+    "slides": "https://github.com/neurohackademy/2019_materials/raw/master/slides/Gratton_Neurohack2019_v1.pdf",
     "repo": "https://github.com/cgratton/Neurohackademy_Tutorial",
     "date": "07/31/2019",
     "time": "9:00",
+    "duration": 50,
+    "room": "Alder 104",
+    "desc": ""
+  }
+  ,
+  {
+    "title": "ML with Scikit Learn",
+    "instructor": "Tal Yarkoni",
+    "slides": "https://github.com/neurohackademy/2019_materials/raw/master/slides/DimReduction-July2019-NeuroHack.pdf",
+    "date": "07/31/2019",
+    "time": "13:00",
+    "duration": 120,
+    "room": "Alder 104",
+    "desc": ""
+  }
+  ,
+  {
+    "title": "Jupyterlab and Binder",
+    "instructor": "Elizabeth DuPre",
+    "slides": "https://docs.google.com/presentation/d/13FTw-Yqrz_sJvYMOXCYb9IQvSmdjw-VAEJwRGNdAGB0/edit#slide=id.g5b30d56ecd_0_0",
+    "date": "07/31/2019",
+    "time": "16:00",
+    "duration": 60,
+    "room": "Alder 104",
+    "desc": ""
+  }
+  ,
+  {
+    "title": "(finding) Open datasets for neurohacking",
+    "instructor": "Chris Gorgolewski",
+    "slides": "https://docs.google.com/presentation/d/1nb5NeCafoXIPmO6MZa5c5VkSkO3ni9Q8vdCCz1r7YIw/edit#slide=id.gc6f980f91_0_0",
+    "date": "08/01/2019",
+    "time": "9:00",
+    "duration": 90,
+    "room": "Alder 104",
+    "desc": ""
+  }
+  ,
+  {
+    "title": "Meta-analysis and reproducibility",
+    "instructor": "Angie Laird",
+    "slides": "https://github.com/neurohackademy/2019_materials/raw/master/slides/Laird-NH19.pdf",
+    "date": "08/01/2019",
+    "time": "11:00",
+    "duration": 90,
+    "room": "Alder 104",
+    "desc": ""
+  }
+  ,
+  {
+    "title": "Optimization",
+    "instructor": "Peng Zheng",
+    "repo": "https://github.com/UW-AMO/Workshop_Material",
+    "date": "08/01/2019",
+    "time": "13:00",
+    "duration": 240,
+    "room": "Alder 103",
+    "desc": "ADSI tutorial"
+  }
+  ,
+  {
+    "title": "Cloud computing",
+    "instructor": "Amanda Tan and Ariel Rokem",
+    "notes": "https://neurohackademy.github.io/cloud101_aws/",
+    "date": "08/01/2019",
+    "time": "15:00",
+    "duration": 120,
+    "room": "Alder 103",
+    "desc": "Tutorial about the cloud"
+  }
+  ,
+  {
+    "title": "Optimal Transport",
+    "instructor": "Zaid Harchaoui and Alec Greaves-Tunnell",
+    "repo": "https://github.com/alecgt/otml-neurohackademy-2019",
+    "date": "08/02/2019",
+    "time": "15:00",
+    "duration": 240,
+    "room": "Alder 103",
+    "desc": "ADSI tutorial"
+  }
+  ,
+  {
+    "title": "Finding low-dimensional structure in large-scale neural recordings",
+    "instructor": "Eva Dyer",
+    "slides": "https://github.com/neurohackademy/2019_materials/raw/master/slides/DimReduction-July2019-NeuroHack.pdf",
+    "date": "08/02/2019",
+    "time": "11:00",
     "duration": 50,
     "room": "Alder 104",
     "desc": ""
